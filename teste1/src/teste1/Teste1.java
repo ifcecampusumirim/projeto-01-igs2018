@@ -10,7 +10,7 @@ package teste1;
  * @author Alunos
  */
 public class Teste1 {
-    
+    float X;
 
     /**
      * @param args the command line arguments
